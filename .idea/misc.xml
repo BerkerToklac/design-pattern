@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/strategy-design-patttern/pom.xml" />
+        <option value="$PROJECT_DIR$/observer-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/decorator-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/factory-design-pattern/pom.xml" />
       </list>
     </option>
   </component>
