@@ -3,5 +3,9 @@ strategy-design-patttern.iml
 decorator-design-patttern.iml
 observer-design-pattern.iml
 factory-design-pattern.iml
+adapter-design-pattern.iml
+bridge-design-pattern.iml
+composite-design-pattern.iml
+facade-design-pattern.iml
 .idea
 target

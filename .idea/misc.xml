@@ -8,6 +8,10 @@
         <option value="$PROJECT_DIR$/observer-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/decorator-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/factory-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/adapter-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/bridge-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/facade-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/composite-design-pattern/pom.xml" />
       </list>
     </option>
   </component>
