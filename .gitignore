@@ -7,5 +7,7 @@ adapter-design-pattern.iml
 bridge-design-pattern.iml
 composite-design-pattern.iml
 facade-design-pattern.iml
+proxy-design-pattern.imlde
+command-design-pattern.iml
 .idea
 target

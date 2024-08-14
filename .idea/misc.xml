@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/bridge-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/facade-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/composite-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/command-design-pattern/pom.xml" />
       </list>
     </option>
   </component>
