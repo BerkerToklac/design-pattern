@@ -9,12 +9,16 @@
         <module name="adapter-design-pattern" />
         <module name="bridge-design-pattern" />
         <module name="proxy-design-pattern" />
+        <module name="iterator-design-pattern" />
         <module name="strategy-design-patttern" />
         <module name="decorator-design-pattern" />
         <module name="observer-design-pattern" />
         <module name="factory-design-pattern" />
+        <module name="memento-design-pattern" />
+        <module name="state-design-pattern" />
         <module name="facade-design-pattern" />
         <module name="composite-design-pattern" />
+        <module name="chain-of-responsibility-design-pattern" />
         <module name="command-design-pattern" />
       </profile>
     </annotationProcessing>

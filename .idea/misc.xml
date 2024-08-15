@@ -14,6 +14,10 @@
         <option value="$PROJECT_DIR$/composite-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/proxy-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/command-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/iterator-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/memento-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/state-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/chain-of-responsibility-design-pattern/pom.xml" />
       </list>
     </option>
   </component>

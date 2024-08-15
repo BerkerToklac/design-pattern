@@ -9,5 +9,9 @@ composite-design-pattern.iml
 facade-design-pattern.iml
 proxy-design-pattern.imlde
 command-design-pattern.iml
+iterator-design-pattern.iml
+memento-design-pattern.iml
+state-design-pattern.iml
+chain-of-responsibility-design-pattern.iml
 .idea
 target
