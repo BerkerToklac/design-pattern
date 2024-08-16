@@ -18,6 +18,9 @@
         <module name="state-design-pattern" />
         <module name="facade-design-pattern" />
         <module name="composite-design-pattern" />
+        <module name="visitor-design-pattern" />
+        <module name="template-method-design-pattern" />
+        <module name="mediator-design-pattern" />
         <module name="chain-of-responsibility-design-pattern" />
         <module name="command-design-pattern" />
       </profile>

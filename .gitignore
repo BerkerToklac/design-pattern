@@ -13,5 +13,7 @@ iterator-design-pattern.iml
 memento-design-pattern.iml
 state-design-pattern.iml
 chain-of-responsibility-design-pattern.iml
+visitor-design-pattern.iml
+interpreter-design-pattern.iml
 .idea
 target

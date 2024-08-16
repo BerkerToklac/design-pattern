@@ -18,6 +18,10 @@
         <option value="$PROJECT_DIR$/memento-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/state-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/chain-of-responsibility-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/mediator-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/visitor-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/template-method-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/interpreter-design-pattern/pom.xml" />
       </list>
     </option>
   </component>
